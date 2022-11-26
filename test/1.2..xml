@@ -1,0 +1,2689 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1005">[tag=&quot;N...n.*&quot; &amp; word!=&quot;.*инг&quot;] within [word=&quot;.*инг&quot;] [tag=&quot;N...n.*&quot; &amp; word!=&quot;.*инг&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="lemma (lowercase)">
+    <item>
+      <str attribute="lemma (lowercase)">глобалмск</str>
+      <freq>30</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">центр</str>
+      <freq>28</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">хан</str>
+      <freq>25</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">компания</str>
+      <freq>18</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">глобал</str>
+      <freq>18</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рус</str>
+      <freq>17</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пейдж</str>
+      <freq>17</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сервис</str>
+      <freq>12</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пол</str>
+      <freq>12</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гарри</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">строй</str>
+      <freq>10</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">форекс</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">орех</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вэд</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">интернет</str>
+      <freq>8</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">чарлз</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">цена</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спонсор</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">союз</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">система</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">программа</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">машина</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">комплекс</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">джонг</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">провайдер</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бизнес</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">управление</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сафари</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пейджер</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">курс</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">конг</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">индонезия</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">грудь</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">акпп</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">хилл</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тур</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">трансформация</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">скилл</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сервиз</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">санкт-петербург</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">нн</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">лимитед</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">количество</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">атр</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шоу</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">харбор</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">услуга</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">трейд</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">трафик</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">студенточка</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стивен</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">специалист</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">реклама</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">разметка</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">процедура</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">продактс</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">проблема</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">премьер</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">понятие</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пипченко</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">организация</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">онлайн</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">лайн</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">запчасть</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">задача</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дом</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">джон</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бюро</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аккаунт</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">эсисп</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">энергия</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">элемент</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">школа</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ши</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шаг</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">цод</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фото</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">формирование</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">февраль</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фаберлик</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ур</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">универсал</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">украина</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">уаз</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">топлазер</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">термин</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тематика</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тат</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">су</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">студия</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">строительство</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стоунз</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стоун</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стоимость</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стандарт</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стандард</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спорт</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сопровождение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">создание</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">снежинка</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">слово</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сведение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">росс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">реферат</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">размещение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">проект</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">провайдеры</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поделка</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">петербург</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пауэлл</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пасха</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">партнер</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">параллакс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оценка</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">отзыв</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оптика</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">описание</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оператор</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">норгей</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">наполеон</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">название</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мосс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">машинка</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ли</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">крайслер</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кпл</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кошка</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">класс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">история</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">использование</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">информация</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ивнянский</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">женщина</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дэй</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дпк</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">директор</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">диагностика</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">день</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дата</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">грант</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">видео</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вещь</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ботовод</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">армор</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">агентство</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">яхта</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">явление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">этап</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">эксперт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">эконом</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">эдвард</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шульц</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">штука</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">штейн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шахта</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шарф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">шарм-эль-шейх</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">чп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">чистка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">чемпион</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">чеклисты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">частота</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">хэллоуин</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">хостинг-провайдер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">хопкинс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ховер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">футбол</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фолкон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">флот</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фишер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фитнес</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">финторп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">финебер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">фанат</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">файнбир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">файнберг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">файнбер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">файн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">файл</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ухо</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">утепление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">упаковка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">умница</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ультра</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">удобство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">удаление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тщеславие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">турция</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">трактор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">торуп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">топика</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">технолоджиз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">технология</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">техника</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тест</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">террапол</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">термаж</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">теория</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тенденция</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тема</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">телеканал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">текст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">текос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">театр</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">тариф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сыв</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">счет-фактура</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">схема</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сфера</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">суть</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">суббота</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стэндарт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">студио</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стройтехники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сториз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стенд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стафф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">статистика</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">стартап</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">срс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спрос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спортсмен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спецтранспорт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">спасибо</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сотрудник</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сотбери</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сообщество</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">соммеро</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">соль</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">содержание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">совет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">смк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">слоган</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">словарь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">системс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">системз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">симфони</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сибур</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сервисез</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сервер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">семинар</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">секрет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">свадьба</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сбыт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сбербанк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сангмо</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">самоучитель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">самодисциплина</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">сайты-магазины</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">русь-телеком</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">руководитель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ромир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">роланд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">родригес</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рисунок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">референтников</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рентек</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рейпа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рейндж</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">резюме</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">результат</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">резервирование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ред</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ребята-демократы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рбс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рбк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рафаэлло</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">рассрочка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">разработка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">разнообразие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">раздел</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">разгон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">развлечение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">развитие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">радиус</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">радислава</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">работа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пятница</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пэйдж</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">путь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пункт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">психолог</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">промоутер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пролистав</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">проис</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">продажа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">прогноз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пробизнеcбанка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">принцип</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">применение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">призрак</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">привет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">премиум</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">представитель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">предприятие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поход</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поставка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">портал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">понедельник</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пользователь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">получатель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">показатель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поинт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поездка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">подтяжка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">поддержка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">подготовка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пнд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">плюс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">план</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">переход</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">переписывание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">перенос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">перекладка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">пекар</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">педерсен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">паста</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">партнёрка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">палтус</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ошибка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">отличие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">отель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">основа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">орьген</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оргьен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">опыт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оптимизаторы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оплата</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оливер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">олег</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оглавление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">обучение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">обследование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">образ</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">оборудование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">обнаружение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">обеспечение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ньюскул</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">нпао</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">нкк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">необходимость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">нгедон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">начало</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">народ</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">написание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">навык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мсрк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мрск</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">моррисон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">молния</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">модуль</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">модель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">моделирование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мов</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">множество</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">миф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">миллс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">микс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">механизм</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">метод</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">металл</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">менеджмент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">менеджер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">медиация</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мебель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мастер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">масса</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мария</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">марибонг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">манн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мандарин</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">мамонт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">малыш</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">магазин</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">лидер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">лейфур</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ландсбергис</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кэмп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кьенце</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кухня</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кубик</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">круизеров</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кросби</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">краснодар</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">краска</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">корунд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">коппель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">копирайтер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">контрон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">контроллер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">контакт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">конкурс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">комплект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">компани</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">командообразование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кожа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кнопка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">клуб</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кит</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кисть</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">киркепортен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кирилл</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кварц</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">квад</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кашмир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">карп</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">капитан</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">кампани</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">йен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">исследование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">испания</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">информтест</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">инструмент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">инструкция</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">инвестиция</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">инвест</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">илья</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">издательство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">издание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">иван</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">зоопсихология</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">занятость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">занятие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">зам</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">закон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">заказчик</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">заказо</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">жан-жак</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">екатеринбург</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">европласт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">евгений</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">еад</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дюкан</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дтэк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">достижение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">документация</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">добро</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">длительность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дискуссия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дизайн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">диалог</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">джоане</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">джоан</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">дементоры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">данные</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гёрлз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">группа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">грузовик</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гоффман</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гора</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">голд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гмбх</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">глорион</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">глонасс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">главснабсбытпромпроект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">глава</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гид</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">георг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">геймдизайн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">гейдж</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вэф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вьетнам</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">всс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">внимание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">внедрение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">власть</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">владимирцы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">владелец</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вкус</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вильгельм</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">версия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вектор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ведж</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ведение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">валери</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вакцинация</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">ваз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">вадлоу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бэйн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бухучет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">брейвик</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бранд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бразерс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">борис</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">большинство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бодибилдер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бог</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">блоги</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">блог</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">битрикс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">безопасен</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">банк</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">байциклес</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">бадди</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аут</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аудио</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">астрея</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">астра</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">артист</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">арт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">арсенал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аппарат</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">анти-каша</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аннотация</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">андрей</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">андерс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">амбиция</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">альфа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">алексей</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">александр</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">акци</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">актуальность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аксессуар</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">акихито</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">азофф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">агенство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">автопарка</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">автомат</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">авто</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">австралия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">австралиец</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">авпц</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">абхазия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">абрахама</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">аб</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">redsurf</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">agof</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">-план</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma (lowercase)">-ателье</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
